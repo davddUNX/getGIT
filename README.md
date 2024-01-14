@@ -12,7 +12,7 @@ examples:
   - getGIT.sh ggerganov/ggml
   - getGIT.sh ggerganov ggml
 
-**Delete all the repositories of an OWNER (limited to 250)**
+**Download all the repositories of an OWNER (limited to 250)**
 : getGIT.sh $OWNER -all
 
 example:
